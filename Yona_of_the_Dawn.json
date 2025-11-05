@@ -236,6 +236,102 @@
         "": "/proxy/api/imgchest/chapter/m9yx9lro3yq"
       },
       "volume": "05"
+    },
+    "030": {
+      "title": "Negotiation",
+      "last_updated": "1762384674",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7ladogxyx"
+      },
+      "volume": "06"
+    },
+    "031": {
+      "title": "The Senju Herb Test",
+      "last_updated": "1762384691",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyrazl9x4p"
+      },
+      "volume": "06"
+    },
+    "032": {
+      "title": "Connection",
+      "last_updated": "1762384708",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/lqyedom2m7d"
+      },
+      "volume": "06"
+    },
+    "033": {
+      "title": "Preparing for War",
+      "last_updated": "1762384724",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/bp45meqpny5"
+      },
+      "volume": "06"
+    },
+    "034": {
+      "title": "Chain of Courage",
+      "last_updated": "1762384740",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyvxarqb78"
+      },
+      "volume": "06"
+    },
+    "035": {
+      "title": "Sweet-Scented Cargo",
+      "last_updated": "1762384760",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9249253wbyn"
+      },
+      "volume": "06"
+    },
+    "036": {
+      "title": "A Spark of Light",
+      "last_updated": "1762384781",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7bloqdmy5"
+      },
+      "volume": "07"
+    },
+    "037": {
+      "title": "History is Made at Night",
+      "last_updated": "1762384796",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7kaq8m348"
+      },
+      "volume": "07"
+    },
+    "038": {
+      "title": "The Night of the Banquet",
+      "last_updated": "1762384813",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqae2rd72"
+      },
+      "volume": "07"
+    },
+    "039": {
+      "title": "The Menacing Clouds of Dawn",
+      "last_updated": "1762384829",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7lado23yx"
+      },
+      "volume": "07"
+    },
+    "040": {
+      "title": "The Morning of the Vow",
+      "last_updated": "1762384845",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9rydqor664k"
+      },
+      "volume": "07"
+    },
+    "041": {
+      "title": "Dragon, Human, or Both",
+      "last_updated": "1762384864",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/pg73d3l5oyr"
+      },
+      "volume": "07"
     }
   }
 }
