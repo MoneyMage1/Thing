@@ -428,6 +428,54 @@
         "": "/proxy/api/imgchest/chapter/pg73d3l63yr"
       },
       "volume": "10"
+    },
+    "042": {
+      "title": "All Together",
+      "last_updated": "1762385923",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qe4gmkwpb4j"
+      },
+      "volume": "08"
+    },
+    "043": {
+      "title": "From Here On",
+      "last_updated": "1762385940",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/a8463zd6v4x"
+      },
+      "volume": "08"
+    },
+    "044": {
+      "title": "People-s Expectations",
+      "last_updated": "1762385956",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/m9yx9l3qkyq"
+      },
+      "volume": "08"
+    },
+    "045": {
+      "title": "War Games",
+      "last_updated": "1762385972",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4nvm86lyn"
+      },
+      "volume": "08"
+    },
+    "046": {
+      "title": "Paving the Way",
+      "last_updated": "1762385989",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7paw86k7o"
+      },
+      "volume": "08"
+    },
+    "047": {
+      "title": "A Welcome Rain",
+      "last_updated": "1762386007",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7kaq8nm48"
+      },
+      "volume": "08"
     }
   }
 }
